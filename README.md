@@ -1,2 +1,2 @@
-# ilp-lista04
-Template da lista de exercícios 04: listas (vetores e matrizes)
+# ilp-lista05
+Template da lista de exercícios 05: Coleções: tuplas, conjuntos e dicionários
